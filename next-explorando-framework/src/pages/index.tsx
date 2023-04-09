@@ -14,6 +14,9 @@ export default function Home() {
         <Link href="/faq">
           Ir para Faq
         </Link>
+        <Link href="/404">
+          Ir para 404
+        </Link>
       </div>
     </>
   )
